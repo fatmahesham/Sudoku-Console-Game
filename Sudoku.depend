@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1626231902 source:e:\code block projects\sudoku\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<iomanip>
+	"Sudoku.h"
+
+1626264533 source:e:\code block projects\sudoku\sudoku.cpp
+	"Sudoku.h"
+	<iostream>
+	<cstdlib>
+	<ctime>
+
+1626189576 e:\code block projects\sudoku\sudoku.h
+
